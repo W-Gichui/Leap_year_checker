@@ -10,6 +10,6 @@ print(leap_century)
 if Century == 0 : 
     print("Leap Year")
 elif leap_year == 0 and Century != 0 :
-    print("Year is a leap year")
+    print("Year is a leap year") 
 else:
     print ("Year is not a leap year") 
